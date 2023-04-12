@@ -71,6 +71,9 @@ Bilingual: English / Spanish
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jalcantara88&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalcantara88&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jalcantara88&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalcantara88&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
