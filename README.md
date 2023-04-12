@@ -1,7 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-Designer & Front End Developer
-
-Hello I am Julio Alcantara
+#💻Julio Alcantara📐
+###Frelance Developer
 
 Nice to meet ya! I have a passion for desing, code, and solving problems. I'm friendly, and love to learn new tech. 
 You never know what you might learn from others so its best to listen!
