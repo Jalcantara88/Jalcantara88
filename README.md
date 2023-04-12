@@ -1,6 +1,8 @@
 ![I am GitHub Readme Generator's creator](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 # Julio Alcantara
-<a href="https://www.linkedin.com/in/deadheadstudio/"><img alt="Bootstrap" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/deadheadstudio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.behance.net/DeadHead"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
+
 ### Frelance Developer 🖥️📱🕹️
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -12,10 +14,6 @@ You never know what you might learn from others so its best to listen!
 
     👯 I’m looking to collaborate on anything javascript!
     💬 Ask me about myself or my code
-
-Find me on LinkedIn : https://www.linkedin.com/in/deadheadstudio/
-
-Behance: https://www.behance.net/DeadHead
 
 Bilingual: English / Spanish
 
