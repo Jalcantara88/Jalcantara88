@@ -15,13 +15,13 @@ You never know what you might learn from others so its best to listen!
     👯 I’m looking to collaborate on anything javascript!
     💬 Ask me about myself or my code
 
-<h3>💬 Programming and Markup Languages</h3>
+<h3>🗣️ Programming and Markup Languages</h3>
 
 <p>
     <img alt="english" height="20" src="https://cdn-icons-png.flaticon.com/512/8363/8363075.png"> English
 </p>
 <p>
-    <img alt="spanish" height="20" src="https://cdn-icons-png.flaticon.com/512/197/197593.png">
+    <img alt="spanish" height="20" src="https://cdn-icons-png.flaticon.com/512/197/197593.png"> Spanish
 </p>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
