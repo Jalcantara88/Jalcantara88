@@ -13,3 +13,5 @@ Find me on LinkedIn : https://www.linkedin.com/in/deadheadstudio/
 Behance: https://www.behance.net/DeadHead
 
 Bilingual: English / Spanish
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jalcantara88)](https://github.com/anuraghazra/github-readme-stats)
