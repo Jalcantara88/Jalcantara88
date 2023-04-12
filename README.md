@@ -74,7 +74,7 @@ Bilingual: English / Spanish
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jalcantara88&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalcantara88&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jalcantara88&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D" alt="Anurag's github stats" /></a>
+<a href="https://git.io/streak-stats"><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jalcantara88&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D" alt="Anurag's github stats" /></p></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jalcantara88&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
