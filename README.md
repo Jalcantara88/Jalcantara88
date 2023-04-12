@@ -18,3 +18,4 @@ Bilingual: English / Spanish
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalcantara88&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visitor Count](https://profile-counter.glitch.me/{Jalcantara88}/count.svg)
