@@ -12,8 +12,10 @@
     <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 </h2>
 
+<p align="center">
 Nice to meet ya! I have a passion for desing, code, and solving problems. I'm friendly, and love to learn new tech. 
 You never know what you might learn from others so its best to listen!
+</p>
 
     👯 I’m looking to collaborate on anything javascript!
     💬 Ask me about myself or my code
