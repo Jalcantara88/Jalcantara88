@@ -76,6 +76,6 @@ Bilingual: English / Spanish
 
 <a href="https://git.io/streak-stats"><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jalcantara88&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D" alt="Anurag's github stats" /></p></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jalcantara88&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![Visitor Count](https://profile-counter.glitch.me/{Jalcantara88}/count.svg)
+<p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{Jalcantara88}/count.svg" alt="visitor count" />
+</p>
